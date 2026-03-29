@@ -1,0 +1,38 @@
+# Render Configuration for Analytics Dashboard Deployment
+
+## Database Service
+
+service:
+  name: analytics-db
+  type: postgres
+  env: production
+  plan: basic
+  region: oregon
+  disk_size: 5gb
+
+## Backend API Service
+
+service:
+  name: analytics-api
+  type: web
+  env: production
+  plan: starter
+  region: oregon
+  build:
+    command: npm install
+  start:
+    command: npm start
+  env:
+    DATABASE_URL: postgres://user:password@analytics-db:5432/dbname
+
+## Frontend React Service
+
+service:
+  name: analytics-frontend
+  type: static
+  env: production
+  region: oregon
+  build:
+    command: npm run build
+  output:
+    path: build
