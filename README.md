@@ -1,45 +1,47 @@
+# Master Long
 
-databases:
-  - name: analytics-dashboard-db
-    databaseName: analytics_dashboard
-    user: analytics_user
-    plan: free
+**AI Agent Builder · On-chain Systems · Real USDC**
 
-services:
-  # Backend API (Node.js/Express)
-  - type: web
-    name: analytics-dashboard-api
-    runtime: node
-    plan: free
-    rootDir: backend
-    buildCommand: npm install
-    startCommand: node server.js
-    envVars:
-      - key: NODE_ENV
-        value: production
-      - key: DATABASE_URL
-        fromDatabase:
-          name: analytics-dashboard-db
-          property: connectionString
-      - key: JWT_SECRET
-        generateValue: true
-      - key: PORT
-        value: 3001
-      - key: FRONTEND_URL
-        value: https://analytics-dashboard-frontend.onrender.com
+I build autonomous agents that run real business operations and settle value on Base.
 
-  # Frontend (React)
-  - type: web
-    name: analytics-dashboard-frontend
-    runtime: static
-    plan: free
-    rootDir: frontend
-    buildCommand: npm install && npm run build
-    staticPublishPath: ./build
-    envVars:
-      - key: REACT_APP_API_URL
-        value: https://analytics-dashboard-api.onrender.com/api
-    routes:
-      - type: rewrite
-        source: /*
-        destination: /index.html
+No toy demos. No simulated earnings. Only systems that move real money and log real actions on-chain.
+
+---
+
+### Live Products
+
+| Project | What it does | Status |
+|---------|--------------|--------|
+| **[Crab Claw Racers](https://github.com/OkfreelancerAi/Crabclawnracers)** | Production dashboard showing **real USDC balance + verified payouts** on Base. Zero simulated numbers. | Live |
+| **[Badman](https://github.com/OkfreelancerAi/badman)** | Autonomous business agent (lead intake, replies, scheduling, content). Registered on Base via ERC-8004. Built at The Synthesis Hackathon 2026. | Live |
+| **[Handsomesales](https://github.com/OkfreelancerAi/Handsomesales)** | AI-powered affiliate discovery + shopping assistant with transparent Amazon Associates tracking. | Live |
+| **[FengShui Villa Agent](https://github.com/OkfreelancerAi/fengshui-villa-agent)** | AI scan + Base Chain validation + multi-language promo engine. | Live |
+
+---
+
+### Current Focus
+
+- Agent rental infrastructure
+- On-chain job / task marketplaces for AI agents
+- Systems where agents earn and settle in USDC
+
+---
+
+### Stack I ship with
+
+`TypeScript` · `Next.js` · `viem` · `Base` · `USDC` · `ERC-8004` · `Claude` · `Solidity`
+
+---
+
+### Proof over promises
+
+Every public product above either:
+- reads live on-chain state, or
+- logs real agent actions on Base, or
+- generates real affiliate revenue.
+
+Building in public from Frankfurt.
+
+---
+
+[GitHub](https://github.com/OkfreelancerAi) · [Website](https://laike.me/en/shop/TrustyGoods)
