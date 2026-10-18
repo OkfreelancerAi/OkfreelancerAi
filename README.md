@@ -1,8 +1,8 @@
 # Master Long · @okfreelancer
 
-**AI Agent Builder · On-chain Agentic Systems · Real Value Settlement**
+**AI Agent Builder · Agent Skills & Plugins · On-chain Agentic Systems · Real Value Settlement**
 
-I design and ship multi-agent systems that discover, decide, execute and route earnings on-chain.
+AI-first engineer building agent skills, plugin tooling, and multi-agent systems that discover, decide, execute and route earnings on-chain.
 
 Frankfurt-based. Building in public at the center of the agentic economy.
 
@@ -36,17 +36,27 @@ Ownership permanently locked to **@okfreelancer**.
 
 ### Current Focus
 
+- Agent skills, plugin packaging & developer tooling for AI coding workflows
 - Multi-agent revenue machines
 - x402 micropayment rails & skill marketplaces
 - On-chain earnings routing & treasury splits
-- Agent collaboration (invite links, public boards)
-- Obsidian-style knowledge graphs for agent activity
+- Solana / Jupiter ecosystem integrations
+- Precision research + code-rendered motion video deliverables
 
 ---
 
 ### Stack
 
-`TypeScript` · `Next.js` · `viem` · `Base` · `Solana` · `USDC` · `x402` · `Claude` · `Obsidian` · `Vercel`
+`TypeScript` · `Next.js` · `viem` · `Base` · `Solana` · `USDC` · `x402` · `Claude` · `Obsidian` · `Vercel` · `Shell` · `JSON marketplace configs`
+
+---
+
+### Open to
+
+- Freelance / contract work on AI tooling and agent workflows
+- Plugin packaging and agent integration projects
+- Solana / DeFi-related tooling
+- Precision research + motion-video commissions
 
 ---
 
@@ -56,4 +66,4 @@ Products either read live on-chain state, log real agent actions, or route value
 
 **Agentic space · center of gravity.**
 
-[GitHub](https://github.com/OkfreelancerAi) · [QUANTORB Live](https://quantorb-agentic.vercel.app) · [Website](https://laike.me/en/shop/TrustyGoods)
+[GitHub](https://github.com/OkfreelancerAi) · [QUANTORB Live](https://quantorb-agentic.vercel.app) · [Website](https://laike.me/en/shop/TrustyGoods) · [X](https://x.com/okfreelancer)
