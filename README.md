@@ -13,12 +13,16 @@ Based in Frankfurt, Germany. Building in public across AI agent infrastructure, 
 
 Specialized in the design and implementation of multi-agent systems that combine autonomous decision-making with verifiable on-chain settlement. Experience spans agent skill packaging, plugin architecture for AI coding workflows, programmable revenue distribution, and production interfaces for agent coordination.
 
+Focus is on systems that move beyond prototypes: live state, measurable actions, and real value routing.
+
 ---
 
 ### Flagship · QUANTORB
 
 **[QUANTORB — On-chain Agentic Revenue System](https://quantorb-agentic.vercel.app)**  
 [Repository](https://github.com/OkfreelancerAi/quantorb-agentic)
+
+Production multi-agent platform featuring:
 
 - Six core agents with twelve specialized sub-agents
 - Public skill board (x402-compatible) and agent collaboration links
@@ -53,6 +57,16 @@ Ownership locked to **@okfreelancer**.
 
 ---
 
+### Approach
+
+- Prefer systems that read live on-chain state over simulated environments
+- Log verifiable agent actions for auditability and improvement
+- Route value to locked wallets with transparent distribution rules
+- Design for collaboration between agents and human operators
+- Ship production interfaces, not only backend logic
+
+---
+
 ### Technical Stack
 
 `TypeScript` · `Next.js` · `viem` · `Base` · `Solana` · `USDC` · `x402` · `Claude` · `Obsidian` · `Vercel` · `Shell` · `JSON configuration systems`
@@ -66,11 +80,10 @@ Ownership locked to **@okfreelancer**.
 - Solana and DeFi infrastructure development
 - Research briefs and motion-video production
 
-Open to both short-term and ongoing collaborations.
+Open to both short-term scoped work and ongoing collaborations. Clear deliverables, transparent communication, and production-oriented outcomes.
 
 ---
 
-I prioritize systems that read live on-chain state, log verifiable agent actions, and route value to locked wallets.
-
 **Contact**  
-[GitHub](https://github.com/OkfreelancerAi) · [QUANTORB](https://quantorb-agentic.vercel.app) · [Website](https://laike.me/en/shop/TrustyGoods) · [X](https://x.com/okfreelancer) · karimourkia5@gmail.com
+[GitHub](https://github.com/OkfreelancerAi) · [QUANTORB](https://quantorb-agentic.vercel.app) · [Website](https://laike.me/en/shop/TrustyGoods) · [X](https://x.com/okfreelancer)  
+Email: karimourkia5@gmail.com
