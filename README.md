@@ -5,7 +5,13 @@ Agent Skills · Plugin Tooling · On-chain Agentic Infrastructure
 
 I design and deliver production multi-agent systems and developer tooling. My work operates on live on-chain state, settles value verifiably, and enables scalable agent collaboration.
 
-Frankfurt · Building in public
+Based in Frankfurt, Germany. Building in public across AI agent infrastructure, micropayment systems, and Solana/Base ecosystems.
+
+---
+
+### Professional Summary
+
+Specialized in the design and implementation of multi-agent systems that combine autonomous decision-making with verifiable on-chain settlement. Experience spans agent skill packaging, plugin architecture for AI coding workflows, programmable revenue distribution, and production interfaces for agent coordination.
 
 ---
 
@@ -35,31 +41,36 @@ Ownership locked to **@okfreelancer**.
 
 ---
 
-### Focus Areas
+### Core Competencies
 
-- Agent skills, plugin packaging, and tooling for AI coding workflows
-- Multi-agent revenue systems and treasury routing
-- x402 micropayment infrastructure and skill marketplaces
-- Solana and Jupiter ecosystem integrations
-- Precision research with code-rendered motion video
+- Multi-agent system design and orchestration
+- Agent skill and plugin packaging for AI coding workflows
+- On-chain micropayment infrastructure (x402)
+- Programmable revenue routing and treasury logic
+- Solana and Base ecosystem development
+- Production interfaces and developer tooling
+- Precision research and code-rendered motion video deliverables
 
 ---
 
 ### Technical Stack
 
-`TypeScript` · `Next.js` · `viem` · `Base` · `Solana` · `USDC` · `x402` · `Claude` · `Obsidian` · `Vercel` · `Shell`
+`TypeScript` · `Next.js` · `viem` · `Base` · `Solana` · `USDC` · `x402` · `Claude` · `Obsidian` · `Vercel` · `Shell` · `JSON configuration systems`
 
 ---
 
 ### Available for
 
-- AI tooling and agent workflow engagements
+- Contract and freelance engagements in AI tooling and agent workflows
 - Plugin packaging and agent integration projects
-- Solana and DeFi infrastructure work
+- Solana and DeFi infrastructure development
 - Research briefs and motion-video production
+
+Open to both short-term and ongoing collaborations.
 
 ---
 
 I prioritize systems that read live on-chain state, log verifiable agent actions, and route value to locked wallets.
 
-[GitHub](https://github.com/OkfreelancerAi) · [QUANTORB](https://quantorb-agentic.vercel.app) · [Website](https://laike.me/en/shop/TrustyGoods) · [X](https://x.com/okfreelancer)
+**Contact**  
+[GitHub](https://github.com/OkfreelancerAi) · [QUANTORB](https://quantorb-agentic.vercel.app) · [Website](https://laike.me/en/shop/TrustyGoods) · [X](https://x.com/okfreelancer) · karimourkia5@gmail.com
