@@ -1,89 +1,157 @@
-# Master Long · @okfreelancer
+<div align="center">
 
-**AI Systems Engineer**  
-Agent Skills · Plugin Tooling · On-chain Agentic Infrastructure
+# ⚡ Master Long · @okfreelancer
 
-I design and deliver production multi-agent systems and developer tooling. My work operates on live on-chain state, settles value verifiably, and enables scalable agent collaboration.
+### Agentic Society Builder  ·  On-chain Value Router  ·  Human+AI Marketplace Operator
 
-Based in Frankfurt, Germany. Building in public across AI agent infrastructure, micropayment systems, and Solana/Base ecosystems.
+**I build the rails that let autonomous agents earn, hire humans, and settle real USDC — on Base & Solana.**
 
----
+[![X](https://img.shields.io/badge/X-@okfreelancer-1DA1F2?style=for-the-badge&logo=x)](https://x.com/okfreelancer)
+[![WURK](https://img.shields.io/badge/WURK.fun-Hire_Humans-22c55e?style=for-the-badge)](https://wurk.fun/?ref=OJYYCJ1)
+[![x402](https://img.shields.io/badge/x402-Micropayments-a78bfa?style=for-the-badge)](https://x402-micropay-earn.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-OkfreelancerAi-181717?style=for-the-badge&logo=github)](https://github.com/OkfreelancerAi)
 
-### Professional Summary
+Frankfurt · Building in public · Agent economy · 2026
 
-Specialized in the design and implementation of multi-agent systems that combine autonomous decision-making with verifiable on-chain settlement. Experience spans agent skill packaging, plugin architecture for AI coding workflows, programmable revenue distribution, and production interfaces for agent coordination.
-
-Focus is on systems that move beyond prototypes: live state, measurable actions, and real value routing.
-
----
-
-### Flagship · QUANTORB
-
-**[QUANTORB — On-chain Agentic Revenue System](https://quantorb-agentic.vercel.app)**  
-[Repository](https://github.com/OkfreelancerAi/quantorb-agentic)
-
-Production multi-agent platform featuring:
-
-- Six core agents with twelve specialized sub-agents
-- Public skill board (x402-compatible) and agent collaboration links
-- Programmable earnings distribution (20/30/50) to verified wallets
-- Structured tracking of agent activity and earnings
-- Interactive interface supporting live agent correspondence
-
-Ownership locked to **@okfreelancer**.
+</div>
 
 ---
 
-### Selected Work
+## 🌐 The Agentic Society Stack
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **[Crab Claw Racers](https://github.com/OkfreelancerAi/Crabclawnracers)** | Production dashboard with live USDC balances and verified payouts on Base | Live |
-| **[Badman](https://github.com/OkfreelancerAi/badman)** | Autonomous business agent for intake, replies, and scheduling. ERC-8004 on Base. Developed at Synthesis Hackathon 2026 | Live |
-| **[Handsomesales](https://github.com/OkfreelancerAi/Handsomesales)** | AI-powered affiliate discovery and shopping assistant | Live |
-| **[FengShui Villa Agent](https://github.com/OkfreelancerAi/fengshui-villa-agent)** | Multi-language AI scanning and validation agent on Base | Live |
+We are entering the era where **agents earn**, **agents hire**, and **agents settle** without human middlemen.
 
----
+My work sits at the intersection of three primitives:
 
-### Core Competencies
+1. **x402 micropayments** — pay-per-call USDC on Base + Solana (no accounts, no API keys)
+2. **WURK.fun** — the human marketplace agents use when they need real eyes, opinions, creative work or social execution
+3. **Multi-agent revenue machines** — locked ownership, programmable splits, live on-chain state
 
-- Multi-agent system design and orchestration
-- Agent skill and plugin packaging for AI coding workflows
-- On-chain micropayment infrastructure (x402)
-- Programmable revenue routing and treasury logic
-- Solana and Base ecosystem development
-- Production interfaces and developer tooling
-- Precision research and code-rendered motion video deliverables
+Everything I ship is designed so an agent can wake up, pay for a skill, hire a human if needed, and route the surplus to a verified wallet.
 
 ---
 
-### Approach
+## 🔥 Flagship & Trending
 
-- Prefer systems that read live on-chain state over simulated environments
-- Log verifiable agent actions for auditability and improvement
-- Route value to locked wallets with transparent distribution rules
-- Design for collaboration between agents and human operators
-- Ship production interfaces, not only backend logic
+<table>
+<tr>
+<td width="50%">
+
+### 💎 x402 Easy Micropay Earn
+**[Live Demo](https://x402-micropay-earn.vercel.app)** · **[Repo](https://github.com/OkfreelancerAi/x402-micropay-earn)**
+
+Trendy zero-friction starter for AI agents & creators.
+
+- Dual-chain (Base + Solana USDC)
+- HTTP 402 ready out of the box
+- Payments land directly in creator wallets
+- Deploy to Vercel in one click
+
+> The simplest way for any agent to start earning cents → dollars per call.
+
+</td>
+<td width="50%">
+
+### 🛰️ QUANTORB
+**[Live](https://quantorb-agentic.vercel.app)** · **[Repo](https://github.com/OkfreelancerAi/quantorb-agentic)**
+
+On-chain Agentic Revenue Machine.
+
+- Multi-agent observatory + skill board
+- x402-compatible skills
+- Programmable 20/30/50 earnings split
+- Ownership locked to @okfreelancer
+- Collab-ready
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Technical Stack
+## 🛠️ Trendy Skills I Ship
 
-`TypeScript` · `Next.js` · `viem` · `Base` · `Solana` · `USDC` · `x402` · `Claude` · `Obsidian` · `Vercel` · `Shell` · `JSON configuration systems`
-
----
-
-### Available for
-
-- Contract and freelance engagements in AI tooling and agent workflows
-- Plugin packaging and agent integration projects
-- Solana and DeFi infrastructure development
-- Research briefs and motion-video production
-
-Open to both short-term scoped work and ongoing collaborations. Clear deliverables, transparent communication, and production-oriented outcomes.
+| Skill / Primitive | What it enables | Status |
+|-------------------|-----------------|--------|
+| **x402 Payment Rails** | Agents pay & get paid in USDC without accounts | Live · [x402-micropay-earn](https://github.com/OkfreelancerAi/x402-micropay-earn) |
+| **WURK Human Layer** | Agents hire real humans for feedback, research, creative & social tasks | Live · [wurk.fun](https://wurk.fun/?ref=OJYYCJ1) |
+| **Agent Skill Boards** | Discoverable, payable skills with ownership lock | QUANTORB |
+| **Programmable Revenue** | Automatic splits to locked wallets | QUANTORB + others |
+| **Autonomous Business Agents** | Intake → reply → schedule → settle (ERC-8004 / Base) | [Badman](https://github.com/OkfreelancerAi/badman) |
+| **Live USDC Dashboards** | Real balances & verified payouts, no simulation | [Crab Claw Racers](https://github.com/OkfreelancerAi/Crabclawnracers) |
 
 ---
 
-**Contact**  
-[GitHub](https://github.com/OkfreelancerAi) · [QUANTORB](https://quantorb-agentic.vercel.app) · [Website](https://laike.me/en/shop/TrustyGoods) · [X](https://x.com/okfreelancer)  
-Email: karimourkia5@gmail.com
+## 🤝 Promote WURK.fun — The Human Side of the Agentic Society
+
+**WURK** is the microtask marketplace where:
+
+- **AI agents** rent humans for opinions, testing, creative work, social campaigns
+- **Humans** earn crypto (SOL / $WURK / USDC) for completing micro-jobs
+- Payments are native via **x402** on Solana & Base
+
+### For Agents
+```
+# Discover payment terms
+GET https://api.wurk.fun/.well-known/x402
+
+# Skill for agents
+https://api.wurk.fun/skill.md
+
+# MCP endpoint
+https://api.wurk.fun/mcp
+```
+
+### For Humans / Creators
+Join → complete microtasks → withdraw instantly  
+**Referral**: [wurk.fun/?ref=OJYYCJ1](https://wurk.fun/?ref=OJYYCJ1)
+
+> Agents that can hire humans outperform agents that cannot.  
+> WURK is the bridge.
+
+---
+
+## 📦 Selected Production Work
+
+| Project | One-liner | Link |
+|---------|-----------|------|
+| **x402-micropay-earn** | Easiest dual-chain micropay starter for agents & creators | [Repo](https://github.com/OkfreelancerAi/x402-micropay-earn) · [Live](https://x402-micropay-earn.vercel.app) |
+| **QUANTORB** | Multi-agent revenue machine with skill board & splits | [Repo](https://github.com/OkfreelancerAi/quantorb-agentic) |
+| **Badman** | Autonomous business agent (Synthesis Hackathon 2026) | [Repo](https://github.com/OkfreelancerAi/badman) |
+| **Crab Claw Racers** | Verified USDC earnings dashboard on Base | [Repo](https://github.com/OkfreelancerAi/Crabclawnracers) |
+| **Genius Claw Base** | Mobile dapp + launch + Circle payouts | [Repo](https://github.com/OkfreelancerAi/genius-claw-base) |
+| **Handsomesales** | AI affiliate discovery & shopping assistant | [Repo](https://github.com/OkfreelancerAi/Handsomesales) |
+
+---
+
+## 🧠 Core Philosophy
+
+- Prefer **live on-chain state** over simulated environments
+- Every agent action should be **auditable and payable**
+- Value routes to **locked wallets** with transparent rules
+- Agents + humans together > agents alone
+- Ship the interface, not just the backend
+
+---
+
+## 🧰 Stack
+
+`TypeScript` · `Next.js` · `viem` · `Base` · `Solana` · `USDC` · `x402` · `WURK` · `Claude` · `Vercel` · `Agent Skills` · `MCP`
+
+---
+
+## 📬 Contact & Collaborate
+
+- **X** → [@okfreelancer](https://x.com/okfreelancer)
+- **WURK** → [wurk.fun/?ref=OJYYCJ1](https://wurk.fun/?ref=OJYYCJ1)
+- **Best starter** → [x402-micropay-earn](https://x402-micropay-earn.vercel.app)
+- **Flagship** → [QUANTORB](https://quantorb-agentic.vercel.app)
+- Email → karimourkia5@gmail.com
+
+Open to agent integrations, skill packaging, revenue-machine collaborations, and production agent infrastructure.
+
+<div align="center">
+
+**Building the Agentic Society — one payable skill at a time.**
+
+</div>
