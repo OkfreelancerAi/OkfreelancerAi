@@ -1,69 +1,66 @@
 # Master Long · @okfreelancer
 
-**AI Agent Builder · Agent Skills & Plugins · On-chain Agentic Systems · Real Value Settlement**
+**AI Systems Engineer · Agent Skills & Plugin Tooling · On-chain Agentic Infrastructure**
 
-AI-first engineer building agent skills, plugin tooling, and multi-agent systems that discover, decide, execute and route earnings on-chain.
+I design and ship production-grade multi-agent systems, developer tooling, and on-chain revenue infrastructure. My work focuses on agent skills, plugin packaging, micropayment rails, and verifiable value settlement.
 
-Frankfurt-based. Building in public at the center of the agentic economy.
-
----
-
-### Flagship · QUANTORB
-
-**[QUANTORB — Onchain Agentic Revenue Machine](https://quantorb-agentic.vercel.app)**  
-[GitHub](https://github.com/OkfreelancerAi/quantorb-agentic)
-
-- 6 core agents (SCOUT → EXECUTOR) + 12 high-value subagents
-- Public Skill Board (x402-style) + Agent Invite Links
-- Earnings locked 20/30/50 to verified creator wallets
-- Obsidian vault for earnings + agent activity tracking
-- Fun interactive dApp surface with live correspondence
-
-Ownership permanently locked to **@okfreelancer**.
+Based in Frankfurt. Building in public.
 
 ---
 
-### Other Live Products
+### Flagship Project · QUANTORB
 
-| Project | What it does | Status |
-|---------|--------------|--------|
-| **[Crab Claw Racers](https://github.com/OkfreelancerAi/Crabclawnracers)** | Production dashboard · real USDC balance + verified payouts on Base | Live |
-| **[Badman](https://github.com/OkfreelancerAi/badman)** | Autonomous business agent (lead intake, replies, scheduling). ERC-8004 on Base. Synthesis Hackathon 2026 | Live |
-| **[Handsomesales](https://github.com/OkfreelancerAi/Handsomesales)** | AI affiliate discovery + shopping assistant | Live |
-| **[FengShui Villa Agent](https://github.com/OkfreelancerAi/fengshui-villa-agent)** | AI scan + Base validation + multi-language promo | Live |
+**[QUANTORB — On-chain Agentic Revenue System](https://quantorb-agentic.vercel.app)**  
+[Repository](https://github.com/OkfreelancerAi/quantorb-agentic)
+
+- Six core agents with twelve specialized sub-agents
+- Public skill board (x402-compatible) and agent collaboration links
+- Programmable earnings distribution (20/30/50 splits to verified wallets)
+- Activity and earnings tracking via structured knowledge vault
+- Interactive interface with live agent correspondence
+
+Ownership locked to **@okfreelancer**.
+
+---
+
+### Selected Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[Crab Claw Racers](https://github.com/OkfreelancerAi/Crabclawnracers)** | Production dashboard with live USDC balances and verified payouts on Base | Live |
+| **[Badman](https://github.com/OkfreelancerAi/badman)** | Autonomous business agent (intake, replies, scheduling). ERC-8004 on Base. Built at Synthesis Hackathon 2026 | Live |
+| **[Handsomesales](https://github.com/OkfreelancerAi/Handsomesales)** | AI-powered affiliate discovery and shopping assistant | Live |
+| **[FengShui Villa Agent](https://github.com/OkfreelancerAi/fengshui-villa-agent)** | Multi-language AI scanning and validation agent on Base | Live |
 
 ---
 
 ### Current Focus
 
-- Agent skills, plugin packaging & developer tooling for AI coding workflows
-- Multi-agent revenue machines
-- x402 micropayment rails & skill marketplaces
-- On-chain earnings routing & treasury splits
-- Solana / Jupiter ecosystem integrations
-- Precision research + code-rendered motion video deliverables
+- Agent skills, plugin packaging, and developer tooling for AI coding workflows
+- Multi-agent revenue systems and treasury routing
+- x402 micropayment infrastructure and skill marketplaces
+- Solana and Jupiter ecosystem integrations
+- Precision research deliverables with code-rendered motion video
 
 ---
 
-### Stack
+### Technical Stack
 
-`TypeScript` · `Next.js` · `viem` · `Base` · `Solana` · `USDC` · `x402` · `Claude` · `Obsidian` · `Vercel` · `Shell` · `JSON marketplace configs`
-
----
-
-### Open to
-
-- Freelance / contract work on AI tooling and agent workflows
-- Plugin packaging and agent integration projects
-- Solana / DeFi-related tooling
-- Precision research + motion-video commissions
+`TypeScript` · `Next.js` · `viem` · `Base` · `Solana` · `USDC` · `x402` · `Claude` · `Obsidian` · `Vercel` · `Shell` · `JSON configuration systems`
 
 ---
 
-### Proof over promises
+### Available for
 
-Products either read live on-chain state, log real agent actions, or route value to locked wallets.
+- Contract and freelance engagements focused on AI tooling and agent workflows
+- Plugin packaging and agent integration work
+- Solana / DeFi tooling and infrastructure
+- Research briefs and motion-video production
 
-**Agentic space · center of gravity.**
+---
 
-[GitHub](https://github.com/OkfreelancerAi) · [QUANTORB Live](https://quantorb-agentic.vercel.app) · [Website](https://laike.me/en/shop/TrustyGoods) · [X](https://x.com/okfreelancer)
+### Approach
+
+I prioritize systems that operate on live on-chain state, log verifiable agent actions, and route value to locked wallets. Proof over promises.
+
+[GitHub](https://github.com/OkfreelancerAi) · [QUANTORB](https://quantorb-agentic.vercel.app) · [Website](https://laike.me/en/shop/TrustyGoods) · [X](https://x.com/okfreelancer)
