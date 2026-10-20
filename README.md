@@ -1,99 +1,83 @@
 <div align="center">
 
-# 👋 Hi, I’m OkfreelancerAi
+# OkfreelancerAi
 
-**AI Systems Engineer · Agent Skills & Plugin Tooling · On-chain Agentic Infrastructure**
+**Leverage systems for solopreneurs · Multi-agent infrastructure · On-chain agentic revenue**
 
-I build production multi-agent systems, developer tooling, and micropayment infrastructure that let autonomous agents earn, collaborate, and settle real value on Base and Solana.
+I design and ship production systems that give operators real leverage: autonomous agents that research, write, score leads and run workflows — plus personal-brand operating systems that position you above generic AI noise.
 
-Frankfurt · Building in public
+Frankfurt · Building in public · Human-verified outputs
 
+[![Leverage OS](https://img.shields.io/badge/Leverage_OS-Live-00ff9d?style=flat)](https://leverage-os-okfreelancerais-projects.vercel.app)
+[![QUANTORB](https://img.shields.io/badge/QUANTORB-Agentic_Revenue-60a5fa?style=flat)](https://quantorb-agentic.vercel.app)
 [![X](https://img.shields.io/badge/X-@okfreelancer-1DA1F2?style=flat&logo=x)](https://x.com/okfreelancer)
-[![WURK](https://img.shields.io/badge/WURK.fun-Hire_Humans-22c55e?style=flat)](https://wurk.fun/?ref=OJYYCJ1)
-[![GitHub](https://img.shields.io/badge/GitHub-OkfreelancerAi-181717?style=flat&logo=github)](https://github.com/OkfreelancerAi)
+[![WURK](https://img.shields.io/badge/WURK-Hire_Humans-22c55e?style=flat)](https://wurk.fun/?ref=OJYYCJ1)
 
 </div>
 
 ---
 
-### Professional Summary
+### Positioning
 
-Specialized in multi-agent systems that combine autonomous decision-making with verifiable on-chain settlement. Work spans agent skill packaging, plugin architecture for AI coding workflows, programmable revenue distribution, and production interfaces for agent coordination.
+Most AI tools dump more output on you.  
+I build systems that produce **verified outcomes** and positioning that actually works against real competitors.
 
-Focus: systems that operate on live state, log verifiable actions, and route value to locked wallets.
+Two product lines:
 
----
-
-### Flagship Projects
-
-**[QUANTORB — On-chain Agentic Revenue System](https://quantorb-agentic.vercel.app)**  
-[Repository](https://github.com/OkfreelancerAi/quantorb-agentic)
-
-- Six core agents + twelve specialized sub-agents
-- Public skill board (x402-compatible) with agent collaboration links
-- Programmable earnings distribution (20/30/50) to verified wallets
-- Structured activity and earnings tracking
-- Interactive interface with live agent correspondence
-
-**[x402 Easy Micropay Earn](https://x402-micropay-earn.vercel.app)**  
-[Repository](https://github.com/OkfreelancerAi/x402-micropay-earn)
-
-- Dual-chain (Base + Solana USDC) micropayment starter
-- HTTP 402 ready, zero-friction for agents and creators
-- Payments land directly in creator wallets
+1. **Leverage for humans** — Silent Operator + Authority Engine  
+2. **Infrastructure for agents** — multi-agent revenue machines, x402 micropayments, skill boards
 
 ---
 
-### Selected Work
+### Flagship Product — [Leverage OS](https://leverage-os-okfreelancerais-projects.vercel.app)
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **[Crab Claw Racers](https://github.com/OkfreelancerAi/Crabclawnracers)** | Production dashboard with live USDC balances and verified payouts on Base | Live |
-| **[Badman](https://github.com/OkfreelancerAi/badman)** | Autonomous business agent (intake, replies, scheduling). ERC-8004 on Base. Synthesis Hackathon 2026 | Live |
-| **[Handsomesales](https://github.com/OkfreelancerAi/Handsomesales)** | AI-powered affiliate discovery and shopping assistant | Live |
-| **[FengShui Villa Agent](https://github.com/OkfreelancerAi/fengshui-villa-agent)** | Multi-language AI scanning and validation agent on Base | Live |
+**Stop doing the work. Start owning the outcome.**
 
----
+| Product | What it is | Price |
+|---------|------------|-------|
+| **Silent Operator** | 24/7 autonomous AI agent: research, content, proposals, lead scoring, workflows. Human-verified outputs. | €49 / month · 14-day results-or-refund |
+| **Authority Engine** | Complete personal brand OS: sharp positioning, LinkedIn rewrite, website/sales copy, 30-day content system, outreach templates. Human strategist reviewed. | €197 one-time · 48h delivery |
 
-### Core Competencies
+→ [Open Leverage OS](https://leverage-os-okfreelancerais-projects.vercel.app)
 
-- Multi-agent system design and orchestration
-- Agent skills and plugin packaging for AI coding workflows
-- On-chain micropayment infrastructure (x402)
-- Programmable revenue routing and treasury logic
-- Solana and Base ecosystem development
-- Production interfaces and developer tooling
-- Precision research and code-rendered motion video
+Why it stands out: human-in-the-loop on every critical output · competitor stress-tested positioning · no hallucinated strategy.
 
 ---
 
-### Focus Areas
+### Agentic Stack (selected)
 
-- Agent skills, plugin packaging, and tooling for AI coding workflows
-- Multi-agent revenue systems and treasury routing
-- x402 micropayment infrastructure and skill marketplaces
-- Solana / Jupiter ecosystem integrations
-- Human + agent collaboration via WURK
+| Project | What it does | Link |
+|---------|--------------|------|
+| **QUANTORB** | On-chain multi-agent revenue machine (6 core + 12 sub-agents, x402 skills, earnings lock) | [Live](https://quantorb-agentic.vercel.app) · [Repo](https://github.com/OkfreelancerAi/quantorb-agentic) |
+| **AgentSociety Live** | Wallet spider + Polymarket crawler + multi-agent micro-signal dashboard | [Repo](https://github.com/OkfreelancerAi/agentsociety-live) |
+| **x402 Micropay Earn** | Dual-chain (Base + Solana) micropayment starter for agents & creators | [Live](https://x402-micropay-earn.vercel.app) |
+| **Badman** | Autonomous business agent · ERC-8004 on Base · Synthesis Hackathon 2026 | [Repo](https://github.com/OkfreelancerAi/badman) |
 
 ---
 
-### Technical Stack
+### Core competencies
 
-`TypeScript` · `Next.js` · `viem` · `Base` · `Solana` · `USDC` · `x402` · `Claude` · `Obsidian` · `Vercel` · `Shell` · `MCP` · `Agent Skills`
+- Multi-agent system design & orchestration  
+- Human-verified AI leverage systems for solopreneurs  
+- Personal brand / authority operating systems  
+- On-chain micropayment infrastructure (x402)  
+- Programmable revenue routing & treasury logic  
+- Base & Solana production interfaces  
+- Agent skills packaging & plugin tooling  
+
+**Stack:** TypeScript · Next.js · viem · Base · Solana · USDC · x402 · Claude · Vercel · MCP · Agent Skills
 
 ---
 
 ### Available for
 
-- Contract and freelance work on AI tooling and agent workflows
-- Plugin packaging and agent integration projects
-- Solana / DeFi infrastructure development
-- Research briefs and motion-video production
-
-Open to short-term and ongoing collaborations.
+- Leverage OS implementations (Silent Operator / Authority Engine)  
+- Multi-agent systems and agent skill packaging  
+- On-chain revenue & micropayment infrastructure  
+- Short-term and ongoing collaborations  
 
 ---
 
 **Contact**  
-[X](https://x.com/okfreelancer) · [WURK](https://wurk.fun/?ref=OJYYCJ1) · [QUANTORB](https://quantorb-agentic.vercel.app) · [Website](https://laike.me/en/shop/TrustyGoods)  
+[Leverage OS](https://leverage-os-okfreelancerais-projects.vercel.app) · [X @okfreelancer](https://x.com/okfreelancer) · [QUANTORB](https://quantorb-agentic.vercel.app) · [WURK](https://wurk.fun/?ref=OJYYCJ1)  
 Email: karimourkia5@gmail.com
