@@ -10,8 +10,8 @@ Frankfurt · Building in public · Human-verified outputs
 
 [![Leverage OS](https://img.shields.io/badge/Leverage_OS-Live-00ff9d?style=flat)](https://leverage-os-okfreelancerais-projects.vercel.app)
 [![QUANTORB](https://img.shields.io/badge/QUANTORB-Agentic_Revenue-60a5fa?style=flat)](https://quantorb-agentic.vercel.app)
+[![WURK](https://img.shields.io/badge/WURK_ref-OJYYCJ1-22c55e?style=flat)](https://wurk.fun/?ref=OJYYCJ1)
 [![X](https://img.shields.io/badge/X-@okfreelancer-1DA1F2?style=flat&logo=x)](https://x.com/okfreelancer)
-[![WURK](https://img.shields.io/badge/WURK-Hire_Humans-22c55e?style=flat)](https://wurk.fun/?ref=OJYYCJ1)
 
 </div>
 
@@ -40,18 +40,30 @@ Two product lines:
 
 → [Open Leverage OS](https://leverage-os-okfreelancerais-projects.vercel.app)
 
-Why it stands out: human-in-the-loop on every critical output · competitor stress-tested positioning · no hallucinated strategy.
+---
+
+### Best public repos (pin these)
+
+| Repo | What it is |
+|------|------------|
+| **[quantorb-agentic](https://github.com/OkfreelancerAi/quantorb-agentic)** | On-chain multi-agent revenue machine · x402 skills · earnings lock 20/30/50 |
+| **[claworb](https://github.com/OkfreelancerAi/claworb)** | Genius Claw × x402 × QUANTORB · mobile multi-agent · USDC on Base & Solana |
+| **[agentsociety-live](https://github.com/OkfreelancerAi/agentsociety-live)** | Live wallet spider + Polymarket crawler + multi-agent micro-signals |
+| **[x402-micropay-earn](https://github.com/OkfreelancerAi/x402-micropay-earn)** | Easy x402 micropay kit for agents & creators · Base + Solana USDC |
+| **[badman](https://github.com/OkfreelancerAi/badman)** | Autonomous business agent · ERC-8004 on Base · Synthesis Hackathon 2026 |
+| **[Crabclawnracers](https://github.com/OkfreelancerAi/Crabclawnracers)** | Real earnings dashboard · verified USDC payouts on Base |
 
 ---
 
-### Agentic Stack (selected)
+### Earnings channels (do not leave idle)
 
-| Project | What it does | Link |
-|---------|--------------|------|
-| **QUANTORB** | On-chain multi-agent revenue machine (6 core + 12 sub-agents, x402 skills, earnings lock) | [Live](https://quantorb-agentic.vercel.app) · [Repo](https://github.com/OkfreelancerAi/quantorb-agentic) |
-| **AgentSociety Live** | Wallet spider + Polymarket crawler + multi-agent micro-signal dashboard | [Repo](https://github.com/OkfreelancerAi/agentsociety-live) |
-| **x402 Micropay Earn** | Dual-chain (Base + Solana) micropayment starter for agents & creators | [Live](https://x402-micropay-earn.vercel.app) |
-| **Badman** | Autonomous business agent · ERC-8004 on Base · Synthesis Hackathon 2026 | [Repo](https://github.com/OkfreelancerAi/badman) |
+| Channel | Action |
+|---------|--------|
+| **Leverage OS** | Push Silent Operator + Authority Engine · Stripe links live on the site |
+| **WURK referral** | Share https://wurk.fun/?ref=OJYYCJ1 · earn when others join/work |
+| **WURK work** | Complete microjobs / create jobs · hold $WURK for Vault if eligible |
+| **QUANTORB / ClawOrb** | Drive traffic to live dApps · x402 payments route to locked wallets |
+| **x402 kit** | Agents/creators pay in USDC · no accounts |
 
 ---
 
@@ -63,7 +75,6 @@ Why it stands out: human-in-the-loop on every critical output · competitor stre
 - On-chain micropayment infrastructure (x402)  
 - Programmable revenue routing & treasury logic  
 - Base & Solana production interfaces  
-- Agent skills packaging & plugin tooling  
 
 **Stack:** TypeScript · Next.js · viem · Base · Solana · USDC · x402 · Claude · Vercel · MCP · Agent Skills
 
@@ -79,5 +90,5 @@ Why it stands out: human-in-the-loop on every critical output · competitor stre
 ---
 
 **Contact**  
-[Leverage OS](https://leverage-os-okfreelancerais-projects.vercel.app) · [X @okfreelancer](https://x.com/okfreelancer) · [QUANTORB](https://quantorb-agentic.vercel.app) · [WURK](https://wurk.fun/?ref=OJYYCJ1)  
+[Leverage OS](https://leverage-os-okfreelancerais-projects.vercel.app) · [WURK ref](https://wurk.fun/?ref=OJYYCJ1) · [X @okfreelancer](https://x.com/okfreelancer) · [QUANTORB](https://quantorb-agentic.vercel.app)  
 Email: karimourkia5@gmail.com
